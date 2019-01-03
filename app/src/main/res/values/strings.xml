@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+
+    <!-- app_id -->
+    <string name="app_id">423430961667</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">my.app.danny.justclick</string>
+    <!-- achievement Beginners Luck -->
+    <string name="achievement_beginners_luck" translatable="false">CgkIg_TOs6kMEAIQAQ</string>
+    <!-- achievement Prime -->
+    <string name="achievement_prime" translatable="false">CgkIg_TOs6kMEAIQBQ</string>
+    <!-- achievement Really Bored -->
+    <string name="achievement_really_bored" translatable="false">CgkIg_TOs6kMEAIQBg</string>
+    <!-- achievement Bored -->
+    <string name="achievement_bored" translatable="false">CgkIg_TOs6kMEAIQBw</string>
+    <!-- achievement Humble -->
+    <string name="achievement_humble" translatable="false">CgkIg_TOs6kMEAIQCA</string>
+    <!-- achievement Arrogant -->
+    <string name="achievement_arrogant" translatable="false">CgkIg_TOs6kMEAIQCQ</string>
+    <!-- achievement Leet -->
+    <string name="achievement_leet" translatable="false">CgkIg_TOs6kMEAIQCg</string>
+    <string name="jackie" translatable="false">CgkIg_TOs6kMEAIQDg</string>
+    <!-- leaderboard Number of Clicks -->
+    <string name="leaderboard_number_of_clicks" translatable="false">CgkIg_TOs6kMEAIQAA </string>CgkIg_TOs6kMEAIQDg
+    <!-- leaderboard Easy -->
+    <string name="leaderboard_easy" translatable="false">CgkIg_TOs6kMEAIQAw</string>
+    <!-- leaderboard Hard -->
+    <string name="leaderboard_hard" translatable="false">CgkIg_TOs6kMEAIQBA</string>
+</resources>

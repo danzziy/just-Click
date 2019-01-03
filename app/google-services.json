@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "423430961667",
+    "firebase_url": "https://just-click-77655941.firebaseio.com",
+    "project_id": "just-click-77655941",
+    "storage_bucket": "just-click-77655941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423430961667:android:9099f76fbcfd9b67",
+        "android_client_info": {
+          "package_name": "my.app.danny.justclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423430961667-gv68roqukjaevrk1phvtebqgl6pr9cbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.app.danny.justclick",
+            "certificate_hash": "f2d9e0dad34e6437b4720a92cfb932ad46fdfa4a"
+          }
+        },
+        {
+          "client_id": "423430961667-a0p1jk54sqg46n6t48gqt43io3u6f6l8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "423430961667-abm9pvsnvrlalv2au51ljakf1912rfq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.app.danny.justclick",
+            "certificate_hash": "9ab06058d42cde5dff692bd41a7697ba76dae3d9"
+          }
+        },
+        {
+          "client_id": "423430961667-it4r8e3iter88i51l32huqvljdkronlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xPRXrYMrkweb-VdA8LFVb692cUA7kiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423430961667-a0p1jk54sqg46n6t48gqt43io3u6f6l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
