@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:423430961667:android:9099f76fbcfd9b67",
+        "mobilesdk_app_id": "1:x",
         "android_client_info": {
           "package_name": "my.app.danny.justclick"
         }
